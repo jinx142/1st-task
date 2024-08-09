@@ -1,0 +1,80 @@
+.head {
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 140px;
+    margin-right: 143px;
+}
+
+.see-more-button {
+    width: 150px;
+    padding: 5px;
+    text-align: center;
+    background-color: orange;
+    cursor: pointer;
+}
+
+.see-more {
+    font-size: 13px;
+    padding: 0px;
+    font-weight: bold;
+}
+
+.news {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 140px;
+    margin-right: 143px;
+
+    margin-top: 80px;
+}
+
+.first-news-pic {
+    height: 350px;
+    width: 490px;
+    object-fit: cover;
+}
+
+.information {
+    background-color: white;
+    width: 240px;
+    position: relative;
+    top: -133px;
+    padding: 20px;
+    box-shadow: 0 14px 14px 0 rgba(0, 0, 0, 0.2);
+}
+
+.headline {
+    color: rgb(19, 93, 255);
+    font-size: 10px;
+}
+
+.news-text {
+    font-weight: bold;
+    line-height: 26px;
+    margin-bottom: 0;
+    width: 190px;
+}
+
+.second-row-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.second-row-new-container {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.news-pic {
+    height: 150px;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.news-information {
+    background-color: white;
+    width: 220px;
+    padding: 20px;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.2);
+}

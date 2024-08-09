@@ -1,0 +1,31 @@
+.third-section-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 200px;
+    margin-bottom: 50px;
+    margin-left: 140px;
+    margin-right: 143px;
+
+}
+
+.title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.back {
+    background-color: rgb(192, 189, 189);
+    height: 15px;
+
+    padding: 12px;
+}
+
+.next {
+    background-color: orange;
+    height: 15px;
+
+    padding: 12px;
+    cursor: pointer;
+}

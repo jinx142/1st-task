@@ -1,0 +1,35 @@
+.header {
+   height: 70px;
+   border-bottom: 2px solid rgb(219, 219, 219);
+   background-color: white;
+
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+ .left-section {
+   margin-left: 140px;
+ }
+
+ .left-section-p {
+   font-size: 30px;
+   font-weight: 700;
+   color: rgb(43, 43, 43);
+ }
+
+ .right-section {
+   margin-right: 100px;
+ }
+ 
+ .right-section-content {
+   display: flex;
+ }
+
+ .right-section-p {
+   margin-right: 40px;
+
+   font-size: 15px;
+   color: rgb(51, 51, 51);
+   cursor: pointer;
+ }
